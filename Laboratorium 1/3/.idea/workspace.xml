@@ -13,9 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2o0pKw3CVueRvX7RNotanoEgu4s" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,6 +25,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/mxk7ep/OneDrive - BWI/Dokumenty/GitHub/Java_2024/Laboratorium 1/3",
     "node.js.detected.package.eslint": "true",
@@ -52,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1730016287679</updated>
       <workItem from="1730016288313" duration="453000" />
+      <workItem from="1730017223784" duration="299000" />
     </task>
     <servers />
   </component>
